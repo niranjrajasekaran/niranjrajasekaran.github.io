@@ -60,3 +60,6 @@ target/
 css/main.css
 js/main.js
 actual_assets/
+
+# Idea files
+.idea
