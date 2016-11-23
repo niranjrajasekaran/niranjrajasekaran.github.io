@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# UnMinfied Assets
+css/main.css
+js/main.js
+actual_assets/
